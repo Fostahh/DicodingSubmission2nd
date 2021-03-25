@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">DicodingSubmission2nd</string>
+    <string name="user_name">Name</string>
+    <string name="user_username">Username</string>
+    <string name="user_description">Description</string>
+    <string name="follower_amp_following"><![CDATA[follower & following]]></string>
+    <string name="company">Company</string>
+    <string name="location">Location</string>
+    <string name="description">Description</string>
+    <string name="repositiry">Repositiry</string>
+</resources>
